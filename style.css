@@ -11,8 +11,9 @@ body{
 
 h1{
     font-family: 'Bangers', cursive;
-     font-size: 4rem;
+     font-size: 90px;
     color: red;
     text-shadow: 3px 3px 0 blue;
-    margin-bottom: 1rem;
+    margin-bottom: 4rem;
+    
 }
